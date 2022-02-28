@@ -1,0 +1,24 @@
+{
+  "name": "azure-facial-recognition-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ali-A-Koye/Azure-Facial-Recognition-Playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ali-A-Koye/Azure-Facial-Recognition-Playground/issues"
+  },
+  "homepage": "https://github.com/Ali-A-Koye/Azure-Facial-Recognition-Playground#readme",
+  "dependencies": {
+    "@azure/cognitiveservices-face": "^5.0.0",
+    "@azure/ms-rest-js": "^2.6.0",
+    "uuid": "^8.3.2"
+  }
+}
